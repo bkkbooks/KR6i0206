@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0206/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0206/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說堅固女經
+  identifiers:
+    krp: KR6i0206
+    cbeta: T14n0574
+    cbeta_old_id: T14n0574
+    authorityid: CA0001537
+    json_key: T0574
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0574.xml
+    old_id: T14n0574
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0206_000-T.yaml, hash: 'sha256:77440ead1d1054ac6c7e1b2f8d7a932c4dfe4a593cb4c6d49d162d48b5025a12'}
+  - {seq: 1, filename: KR6i0206_001-T.yaml, hash: 'sha256:8961a81b9fcef5d88d548e25e2c686f0922cc8a2924285100f48b622a92d4ca1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0206_000-T.markers.yaml, hash: 'sha256:57fe1720528d69f92d9904635c3e698659fa2e8f736638b8e91573d9b2b485e6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0206_001-T.markers.yaml, hash: 'sha256:f83beb160da9e30b1dc15b529a4af04432ce1a3ef6228f9d0f4e0cbb4b9a41a9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0206_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2405
+  label: 佛說堅固女經
+  type: juan
+  level: 1
+hash: sha256:f6b8c38b36609ba821841915c5202b34b0454cfefe30fd25e5b6ca27fb00a6b1

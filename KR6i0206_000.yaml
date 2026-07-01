@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0206/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說堅固女經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0574.xml
+    old_id: T14n0574
+hash: sha256:77440ead1d1054ac6c7e1b2f8d7a932c4dfe4a593cb4c6d49d162d48b5025a12
