@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0206/v1
 canonical_location: https://kanripo.org/bkk/KR6i0206/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說堅固女經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0206_000.yaml, hash: 'sha256:77440ead1d1054ac6c7e1b2f8d7a932c4dfe4a593cb4c6d49d162d48b5025a12'}
-  - {seq: 1, filename: KR6i0206_001.yaml, hash: 'sha256:8961a81b9fcef5d88d548e25e2c686f0922cc8a2924285100f48b622a92d4ca1'}
+  - {seq: 1, filename: KR6i0206_001.yaml, hash: 'sha256:ada5c3266d2b8c5a001c25c5208fb522add0717b429430e7d879ccb8c27edea1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0206_000.markers.yaml, hash: 'sha256:b22bd56894eb45d155810ec21aff8ca231090b3c2142f5e96123c5e06faf4a15'}
-  - {seq: 1, role: markers, filename: assets/KR6i0206_001.markers.yaml, hash: 'sha256:4c6471be6d3b5cafe5ce1b4dbbf3918bee795e773fb3ddc69b4b788998b85577'}
+  - {seq: 1, role: markers, filename: assets/KR6i0206_001.markers.yaml, hash: 'sha256:0cffcd252e636f3f97cd673fbd69e5853a17e1425050e064c7f915dc719523ba'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說堅固女經
   type: juan
   level: 1
-hash: sha256:fa934587a7b5b706434e5b5e736ae4b5734349d4d4a1d37c8aa0023bc920c46b
+hash: sha256:e6a131506aac4ed4bde135caeb3a41ecc24b0687a2709bd439e6a347e3c79f79
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
